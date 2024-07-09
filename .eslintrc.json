@@ -38,7 +38,7 @@
       }
     }
   },
-  // "ignorePatterns": [".eslintrc.json", "vite.config.ts"],
+  // "ignorePatterns": ["vite.config.ts"],
   "rules": {
     "no-param-reassign": ["error", { "props": false }],
     "@typescript-eslint/no-non-null-assertion": "off",
